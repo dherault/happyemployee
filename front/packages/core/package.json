@@ -1,5 +1,13 @@
 {
   "name": "core",
-  "version": "0.0.1",
-  "private": true
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "react-native-gesture-handler": "^1.5.3",
+    "react-native-reanimated": "^1.6.0",
+    "react-native-safe-area-context": "^0.6.2",
+    "react-native-screens": "^2.0.0-alpha.25",
+    "react-navigation": "^4.0.10",
+    "react-router-dom": "^5.1.2"
+  }
 }
